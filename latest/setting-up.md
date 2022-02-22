@@ -10,13 +10,13 @@ Once added to your project, Scribble will automatically initialise its core func
 
 Unlike in previous versions, using standard fonts with Scribble is totally automatic and no additional code is needed.
 
-By default, Scribble will use the first added font as the default font to use for text elements. The default font can be changed by using [`scribble_font_set_default()`](font-setup?id=scribble_font_set_defaultfontname).
+By default, Scribble will use the first added font as the default font to use for text elements. The default font can be changed by using [`scribble_font_set_default()`](fonts?id=scribble_font_set_defaultfontname). 
 
 ## What next?
 
 Now you're ready to start drawing text with Scribble! The best way to learn is, as always, to read existing code. The main project file found in the repo has lots of examples and test cases for you to learn from.
 
-Alternatively, if you want to simplify some of your existing text drawing that you've done using native GameMaker functions, [here's a brief overview of ways Scribble makes that easier](coming-from-native-gm). There's a lot you can do with Scribble, either by using [in-line commands](Text-Formatting) or by controlling behaviour with [methods](scribble-methods).
+Alternatively, if you want to simplify some of your existing text drawing that you've done using native GameMaker functions, [here's a brief overview of ways Scribble makes that easier](coming-from-native-gm). There's a lot you can do with Scribble, either by using [in-line commands](text-formatting) or by controlling behaviour with [methods](scribble-methods). 
 
 ## How do I use spritefonts?
 
